@@ -25,7 +25,14 @@ author:
   avatar: "20251028_profile.png"
   name: "David Vilalta"
   pronouns:
-  bio: "PhD Candidate at Columbia University"
+  author:
+  bio: |
+    PhD Candidate at Columbia University
+    <br>
+    <a href="/files/20251028_CV.pdf" download>
+      <i class="fas fa-file-pdf"></i> Download CV
+    </a>
+
   location: "New York"
   employer:
   uri:
