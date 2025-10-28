@@ -29,6 +29,6 @@ Bond Markets and the Geopolitical Costs of Dependence: Evidence from Russia’s 
 
 ## Publications
 
-Carolina Bernal, Donald Green and David Vilalta. Forthcoming. Do Provinces that Win the Spanish Christmas Lottery Experience a Surge in Incumbent Popularity? An Out-of-Sample Replication of Bagues and Esteve-Volart (2016). **Journal of Political Economy: Microeconomics**
+Carolina Bernal, Donald Green and David Vilalta. _Forthcoming_. Do Provinces that Win the Spanish Christmas Lottery Experience a Surge in Incumbent Popularity? An Out-of-Sample Replication of Bagues and Esteve-Volart (2016). **Journal of Political Economy: Microeconomics**
 
 Ranjit Lall and David Vilalta. 2025. Varieties of Anxieties: Disaggregating Emotion and Voting Behaviour in the COVID-19 Era. **British Journal of Political Science**
