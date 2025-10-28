@@ -31,7 +31,7 @@ author:
   links:
     - label: "Download CV"
       icon: "fas fa-file-pdf"
-      url: "/files/20251028_CV.pdf"
+      url: "https://davidvilalta.github.io/files/20251028_CV.pdf"
 
   # Academic websites
   academia         : # URL
