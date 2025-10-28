@@ -9,14 +9,6 @@
 
 main: []
 
-<style>
-/* Hide any leftover nav containers and reduce header padding */
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links { display: none !important; }
-.masthead__inner-wrap { padding: 0.6rem 0; }  /* smaller header */
-</style>
-
-
 # main:
 #  - title: "Research"
 #    url: /research/
