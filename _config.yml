@@ -24,7 +24,7 @@ author:
   avatar           : "/images/20251028_profile.png"
   name             : "David Vilalta"
   pronouns         : # example: "she/her"  
-  bio : "PhD Candidate at Columbia University"
+  bio              : "PhD Candidate at Columbia University"
   location         : "New York"
   employer         : # "Columbia University"
   uri              : # URL
