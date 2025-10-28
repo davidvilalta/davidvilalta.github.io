@@ -13,22 +13,21 @@ title                    : "David Vilalta"
 title_separator          : "-"
 name                     : &name "David Vilalta"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url: "https://davidvilalta.github.io"
-repository: "davidvilalta/davidvilalta.github.io"
+url                      : "https://davidvilalta.github.io"
+repository               : "davidvilalta/davidvilalta.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/20251028_profile.png"
-  name             : "David Vilalta"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Columbia University"
-  location         : "New York"
-  employer         : # "Columbia University"
-  uri              : # URL
-  email            : "dv2482@columbia.edu" 
+  avatar: "/images/20251028_profile.png"
+  name: "David Vilalta"
+  pronouns:
+  bio: "PhD Candidate at Columbia University"
+  location: "New York"
+  employer:
+  uri:
+  email: "dv2482@columbia.edu"
   links:
     - label: "Download CV"
       icon: "fas fa-file-pdf"
