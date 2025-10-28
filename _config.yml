@@ -22,7 +22,7 @@ repository: "davidvilalta/davidvilalta.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "/images/20251028_profile.png"
+  avatar: "20251028_profile.png"
   name: "David Vilalta"
   pronouns:
   bio: "PhD Candidate at Columbia University"
