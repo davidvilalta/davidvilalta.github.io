@@ -7,11 +7,21 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /cv/
+main: []
+
+<style>
+/* Hide any leftover nav containers and reduce header padding */
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links { display: none !important; }
+.masthead__inner-wrap { padding: 0.6rem 0; }  /* smaller header */
+</style>
+
+
+# main:
+#  - title: "Research"
+#    url: /research/
+#  - title: "CV"
+#    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
