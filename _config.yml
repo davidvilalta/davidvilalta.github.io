@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "20251028_profile.png"
+  avatar           : "20251028_profile.jpeg"
   name             : "David Vilalta"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Columbia University"
