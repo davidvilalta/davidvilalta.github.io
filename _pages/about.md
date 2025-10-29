@@ -21,16 +21,21 @@ Before my PhD, I studied a BSc in Economics at the University of Warwick and a D
 
 Varieties of Political Risk: Firm Outcomes and Strategies in an Age of Uncertainty
 
-Non-Market Strategy and its Discontents: Firm Value and Democratic Costs of Political Appointments
+<i>Non-Market Strategy and its Discontents: Firm Value and Democratic Costs of Political Appointments.</i>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5540800" target="_blank" rel="noopener">Available on SSRN</a>
+
 
 The Politics of Abandonment: Private Service Deprivation and Support for the Far Left
-
-Why and When do Governments Bail Out Banks
-
-Bond Markets and the Geopolitical Costs of Dependence: Evidence from Russia’s Invasion of Ukraine
 
 ## Publications
 
 Carolina Bernal, Donald Green and David Vilalta. _Forthcoming_. Do Provinces that Win the Spanish Christmas Lottery Experience a Surge in Incumbent Popularity? An Out-of-Sample Replication of Bagues and Esteve-Volart (2016). **Journal of Political Economy: Microeconomics**
 
 Ranjit Lall and David Vilalta. 2025. Varieties of Anxieties: Disaggregating Emotion and Voting Behaviour in the COVID-19 Era. **British Journal of Political Science**
+
+## Other Work in Progress
+
+Why and When do Governments Bail Out Banks
+
+Bond Markets and the Geopolitical Costs of Dependence: Evidence from Russia’s Invasion of Ukraine
+
