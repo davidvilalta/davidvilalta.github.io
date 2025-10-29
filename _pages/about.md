@@ -23,7 +23,7 @@ David Vilalta. Varieties of Political Risk: Firm Outcomes and Strategies in an A
 
 David Vilalta. Non-Market Strategy and its Discontents: Firm Value and Democratic Costs of Political Appointments. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5540800" target="_blank" rel="noopener">Available on SSRN</a>
 
-David Vilalta. The Politics of Abandonment: Private Service Deprivation and Support for the Far Left
+David Vilalta. The Politics of Abandonment: Private Service Deprivation and Support for the Far Left.
 
 ## Publications
 
